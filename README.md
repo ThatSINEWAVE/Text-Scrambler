@@ -1,7 +1,12 @@
+<div align="center">
 
 # Text Scrambler
 
+![Text-Scrambler](https://github.com/user-attachments/assets/a1a25561-5aa5-41be-92d0-ee208f4c25af)
+
 A simple web app that encodes and decodes text using a custom scrambling method based on a decoding word. This app is built with **HTML**, **CSS**, and **JavaScript** and features a modern dark-themed user interface.
+
+</div>
 
 ## Features
 - **Encode Text**: Scramble your input text using a decoding word.
@@ -15,15 +20,6 @@ A simple web app that encodes and decodes text using a custom scrambling method 
 2. Provide a decoding word (can be a word, number, or any string).
 3. Click "Encode" to scramble the text or "Decode" to unscramble it.
 4. The result will appear in the output field.
-
-## Project Structure
-```
-TextScrambler/
-├── index.html     # The main HTML file
-├── styles.css     # CSS for styling the app
-├── script.js      # JavaScript for encoding and decoding functionality
-└── README.md      # Project documentation
-```
 
 ## Installation
 1. Clone this repository to your local machine:
