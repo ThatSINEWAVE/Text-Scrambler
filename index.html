@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Scrambler</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Text Scrambler</h1>
+        <textarea id="inputText" placeholder="Enter text to encode or decode"></textarea>
+        <input type="text" id="decodingWord" placeholder="Decoding word">
+        <div class="buttons">
+            <button onclick="encode()">Encode</button>
+            <button onclick="decode()">Decode</button>
+        </div>
+        <textarea id="outputText" placeholder="Result will appear here" readonly></textarea>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
