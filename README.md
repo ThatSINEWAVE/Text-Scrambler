@@ -14,6 +14,11 @@ A simple web app that encodes and decodes text using a custom scrambling method 
 - **User-Friendly UI**: A responsive, professional dark theme for a clean and intuitive experience.
 - **Lightweight**: No external libraries or frameworks required.
 
+<div align="center">
+
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## How It Works
 1. Enter the text you want to encode or decode in the input field.
@@ -34,6 +39,12 @@ A simple web app that encodes and decodes text using a custom scrambling method 
 
 ## Customization
 Feel free to modify the CSS and JavaScript files to adjust the appearance or scrambling logic to fit your needs.
+
+<div align="center">
+
+## [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have ideas for improvements, feel free to submit an issue or a pull request.
