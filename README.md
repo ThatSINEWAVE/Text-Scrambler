@@ -1,6 +1,6 @@
 <div align="center">
 
-# Text Scrambler
+# [Text Scrambler](https://thatsinewave.github.io/Text-Scrambler/)
 
 ![Text-Scrambler](https://github.com/user-attachments/assets/a1a25561-5aa5-41be-92d0-ee208f4c25af)
 
