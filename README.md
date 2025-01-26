@@ -24,7 +24,7 @@ A simple web app that encodes and decodes text using a custom scrambling method 
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/text-scrambler.git
+   git clone https://github.com/ThatSINEWAVE/Text-Scrambler.git
    ```
 2. Open `index.html` in your preferred web browser.
 
